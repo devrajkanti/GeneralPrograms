@@ -1,4 +1,4 @@
-mylist = [1,7,10,39,42,26,57,109]
+mylist = [1,2,7,10,39,42,26,57,109]
 for num in mylist:
     if num > 1:
         for i in range (2,num):
